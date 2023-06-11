@@ -4,7 +4,7 @@
 pip install -r requirements.txt
 
 
-# running model
+# How to run
 
 python run.py
 
